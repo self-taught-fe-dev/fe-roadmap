@@ -12,10 +12,16 @@
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
   - [this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601)
 
-## 추천 사이트 
+## 추천 사이트
 
 ### JAVASCRIPT
+
 - [HTML DOM](https://htmldom.dev/) : Vanilla JS 로 HTML DOM 다루기
 
-### CSS 
+### CSS
+
 - [CSS Flex Game](https://flexboxfroggy.com/#ko) : CSS Flex 입문할 때 추천하는 사이트
+
+### GIT
+
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
