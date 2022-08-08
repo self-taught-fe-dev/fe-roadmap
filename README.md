@@ -4,6 +4,7 @@
 
 - [코어 자바스크립트(https://ko.javascript.info)](https://ko.javascript.info/)
 - [poiemaweb.com](https://poiemaweb.com/)
+- [w3schools.com](https://www.w3schools.com/default.asp)
 
 ## 추천 도서
 
@@ -17,10 +18,12 @@
 ### JAVASCRIPT
 
 - [HTML DOM](https://htmldom.dev/) : Vanilla JS 로 HTML DOM 다루기
+- [Event Loop](https://bit.ly/3Qv10Km) : Event Loop를 시각적으로 확인해 볼 수 있는 사이트
 
 ### CSS
 
 - [CSS Flex Game](https://flexboxfroggy.com/#ko) : CSS Flex 입문할 때 추천하는 사이트
+- [CSS Grid Game](https://cssgridgarden.com/#ko) : CSS Grid 입문할 때 추천하는 사이트
 
 ### GIT
 
