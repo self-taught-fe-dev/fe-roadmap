@@ -18,6 +18,7 @@
 ### JAVASCRIPT
 
 - [HTML DOM](https://htmldom.dev/) : Vanilla JS 로 HTML DOM 다루기
+- [Event Loop](https://bit.ly/3Qv10Km) : Event Loop를 시각적으로 확인해 볼 수 있는 사이트
 
 ### CSS
 
