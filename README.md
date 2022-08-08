@@ -4,6 +4,7 @@
 
 - [코어 자바스크립트(https://ko.javascript.info)](https://ko.javascript.info/)
 - [poiemaweb.com](https://poiemaweb.com/)
+- [w3schools.com](https://www.w3schools.com/default.asp)
 
 ## 추천 도서
 
