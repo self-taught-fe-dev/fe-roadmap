@@ -25,3 +25,9 @@
 ### GIT
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
+
+### 디자인 패턴과 리팩토링 기법
+
+- [리팩토링 구루](https://refactoring.guru/refactoring) : 일명, 너구리 사이트. 글로 볼 땐 추상적으로 느껴지는 리팩토링 기법을 풍부한 그림 설명과 예제로 구체화하여 설명. 또한 디자인 패턴도 마찬가지이며, 타입스크립트 예제 코드를 제공한다는 큰 장점이 있음.
+
+- [patterns.dev](https://www.patterns.dev/) : 디자인 패턴을 정리한 사이트이며 Gof의 디자인 패턴말고도 프론트엔드 전반에 사용되는 디자인패턴(Hooks, HoC, Tree Shaking 등)들도 잘 설명함.
