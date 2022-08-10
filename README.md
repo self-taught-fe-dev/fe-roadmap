@@ -16,6 +16,12 @@
 
 ## 추천 사이트
 
+### 공통
+
+- [MDN(Mozilla Developer Network)](https://developer.mozilla.org/ko/) : 웹 개발을 한다면 꼭 보게되는 사실상의 표준 문서(표준은 아님!)이다. 파이어폭스 브라우저를 개발한 모질라 재단에서 운영하고 있다. HTML, CSS, JavaScript, WebAPI 등 웹 기술 전반을 기초부터 심화까지 상세하게 다룬다. 웹 개발 초보자를 위한 [MDN learning area](https://developer.mozilla.org/en-US/docs/Learn) 라는 섹션도 있으니 참고 할 것.
+
+- [web.dev](https://web.dev/) : Google Developers 에서 운영하는 웹 기술 전반에 대한 기술 문서이다. 웹 기술 학습을 위한 학습 경로 제공, 구글 개발자들이 작성한 양 질의 기술 아티클을 제공하고 있다.
+
 ### JAVASCRIPT
 
 - [HTML DOM](https://htmldom.dev/) : Vanilla JS 로 HTML DOM 다루기
