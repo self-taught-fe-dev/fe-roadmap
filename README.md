@@ -63,3 +63,22 @@
 - [F-Lab](https://f-lab.kr/)
 - [패스트캠퍼스](https://fastcampus.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=hq%5E220310%5E%EC%9E%90%EC%83%81%ED%98%B8&utm_content=%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4&utm_term=&gclid=CjwKCAjw6MKXBhA5EiwANWLODC6RWxOK5sfBSExKgIyotusL1eK835aTL5TcY-KFsuPjj6Fc9a6Z-BoCF6QQAvD_BwE)
 - [삼성멀티캠퍼스(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+
+## 기업 기술 블로그 모음
+
+- [구글](https://developer.chrome.com)
+- [카카오엔터프라이즈 프론트](https://fe-developers.kakaoent.com)
+- [네이버 스마트에디터](https://smartstudio.tech)
+- [위시켓](https://yozm.wishket.com)
+- [카카오](https://tech.kakao.com)
+- [줌인터넷](https://zuminternet.github.io)
+- [마켓컬리](https://helloworld.kurly.com)
+- [우아한형제들](https://techblog.woowahan.com)
+- [토스트](https://meetup.toast.com)
+- [당근마켓](https://medium.com/feed/daangn)
+- [요기요](https://techblog.yogiyo.co.kr)
+- [라인](https://engineering.linecorp.com)
+- [리디](https://ridicorp.com)
+- [네이버](https://d2.naver.com)
+- [여기어때](https://techblog.gccompany.co.kr)
+
