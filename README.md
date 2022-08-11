@@ -66,19 +66,19 @@
 
 ## 기술 블로그 모음
 
-- [구글] https://developer.chrome.com
-- [카카오엔터 프론트] https://fe-developers.kakaoent.com
-- [네이버스마트에디터] https://smartstudio.tech
-- [위시켓] https://yozm.wishket.com
-- [카카오] https://tech.kakao.com
-- [줌인터넷] https://zuminternet.github.io
-- [마켓컬리] https://helloworld.kurly.com
-- [우아한 형제들] https://techblog.woowahan.com
-- [토스트] https://meetup.toast.com
-- [당근마켓] https://medium.com/feed/daangn
-- [요기요] https://techblog.yogiyo.co.kr
-- [라인] https://engineering.linecorp.com
-- [리디] https://ridicorp.com
-- [네이버] https://d2.naver.com
-- [여기어때] https://techblog.gccompany.co.kr/
+- [구글](https://developer.chrome.com)
+- [카카오엔터 프론트](https://fe-developers.kakaoent.com)
+- [네이버스마트에디터](https://smartstudio.tech)
+- [위시켓](https://yozm.wishket.com)
+- [카카오](https://tech.kakao.com)
+- [줌인터넷](https://zuminternet.github.io)
+- [마켓컬리](https://helloworld.kurly.com)
+- [우아한 형제들](https://techblog.woowahan.com)
+- [토스트](https://meetup.toast.com)
+- [당근마켓](https://medium.com/feed/daangn)
+- [요기요](https://techblog.yogiyo.co.kr)
+- [라인](https://engineering.linecorp.com)
+- [리디](https://ridicorp.com)
+- [네이버](https://d2.naver.com)
+- [여기어때](https://techblog.gccompany.co.kr)
 
