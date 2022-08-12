@@ -9,6 +9,7 @@
 ## 추천 도서
 
 - [코어 자바스크립트(책)](http://www.yes24.com/Product/Goods/78586788)
+- [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567)
 - You don't know javascript 시리즈
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
   - [this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601)
@@ -21,6 +22,8 @@
 - [MDN(Mozilla Developer Network)](https://developer.mozilla.org/ko/) : 웹 개발을 한다면 꼭 보게되는 사실상의 표준 문서(표준은 아님!)이다. 파이어폭스 브라우저를 개발한 모질라 재단에서 운영하고 있다. HTML, CSS, JavaScript, WebAPI 등 웹 기술 전반을 기초부터 심화까지 상세하게 다룬다. 웹 개발 초보자를 위한 [MDN learning area](https://developer.mozilla.org/en-US/docs/Learn) 라는 섹션도 있으니 참고 할 것.
 
 - [web.dev](https://web.dev/) : Google Developers 에서 운영하는 웹 기술 전반에 대한 기술 문서이다. 웹 기술 학습을 위한 학습 경로 제공, 구글 개발자들이 작성한 양 질의 기술 아티클을 제공하고 있다.
+
+-[State of JavaScript](https://stateofjs.com/en-us/) : 전세계 자바스크립트 개발자들을 대상으로 한 설문조사 웹사이트. 어떤 라이브러리가 트렌드인지, 무슨 기술이 상승세인지, 아직 활발히 사용중인 스택이 무엇인지 명확하게 확인 가능하다. 새롭게 배울 라이브러리나 스택을 선정하는데 있어 큰 도움이 된다.
 
 ### JAVASCRIPT
 
@@ -40,6 +43,7 @@
 
 - [Unsplash](https://unsplash.com/) : 무료 이미지 다운로드 가능
 - [눈누](https://noonnu.cc/) : 무료 폰트 다운로드 가능
+- [picsum](https://picsum.photos/800/600) : 랜덤 이미지 생성 URL. 800 -> 가로,600 -> 세로
 
 ### 디자인 패턴과 리팩토링 기법
 
