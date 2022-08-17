@@ -8,12 +8,18 @@
 
 ## 추천 도서
 
+### JAVASCRIPT
+
 - [코어 자바스크립트(책)](http://www.yes24.com/Product/Goods/78586788)
 - [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567)
 - You don't know javascript 시리즈
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
   - [this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601)
   - [웹에서 볼수있는 You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
+
+### 함수형 프로그래밍
+
 - [쏙쏙 들어오는 함수형 코딩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600759&orderClick=LEa&Kc=)
 
 ## 추천 사이트
