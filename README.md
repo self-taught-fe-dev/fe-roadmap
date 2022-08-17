@@ -46,6 +46,10 @@
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
 
+### 번들러
+
+- [webpack.kr](https://webpack.kr/) : 라인(LINE)의 프론트엔드 개발자들이 한국어로 번역하고 있는 웹팩 공식문서. 상당 부분 이미 번역된 상태이므로 읽기 불편함이 없다. 웹팩을 처음 사용하는 사람이라면 [Guides](https://webpack.kr/guides/)를 통해 학습할 것
+
 ### 무료로 사용할 수 있는 이미지, 폰트 등 사이트
 
 - [Unsplash](https://unsplash.com/) : 무료 이미지 다운로드 가능
