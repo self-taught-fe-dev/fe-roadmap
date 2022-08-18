@@ -8,12 +8,18 @@
 
 ## 추천 도서
 
+### JAVASCRIPT
+
 - [코어 자바스크립트(책)](http://www.yes24.com/Product/Goods/78586788)
 - [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567)
 - You don't know javascript 시리즈
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
   - [this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601)
   - [웹에서 볼수있는 You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
+
+### 함수형 프로그래밍
+
 - [쏙쏙 들어오는 함수형 코딩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600759&orderClick=LEa&Kc=)
 
 ## 추천 사이트
@@ -24,7 +30,7 @@
 
 - [web.dev](https://web.dev/) : Google Developers 에서 운영하는 웹 기술 전반에 대한 기술 문서이다. 웹 기술 학습을 위한 학습 경로 제공, 구글 개발자들이 작성한 양 질의 기술 아티클을 제공하고 있다.
 
--[State of JavaScript](https://stateofjs.com/en-us/) : 전세계 자바스크립트 개발자들을 대상으로 한 설문조사 웹사이트. 어떤 라이브러리가 트렌드인지, 무슨 기술이 상승세인지, 아직 활발히 사용중인 스택이 무엇인지 명확하게 확인 가능하다. 새롭게 배울 라이브러리나 스택을 선정하는데 있어 큰 도움이 된다.
+- [State of JavaScript](https://stateofjs.com/en-us/) : 전세계 자바스크립트 개발자들을 대상으로 한 설문조사 웹사이트. 어떤 라이브러리가 트렌드인지, 무슨 기술이 상승세인지, 아직 활발히 사용중인 스택이 무엇인지 명확하게 확인 가능하다. 새롭게 배울 라이브러리나 스택을 선정하는데 있어 큰 도움이 된다.
 
 ### JAVASCRIPT
 
@@ -40,6 +46,10 @@
 ### GIT
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
+
+### 번들러
+
+- [webpack.kr](https://webpack.kr/) : 라인(LINE)의 프론트엔드 개발자들이 한국어로 번역하고 있는 웹팩 공식문서. 상당 부분 이미 번역된 상태이므로 읽기 불편함이 없다. 웹팩을 처음 사용하는 사람이라면 [Guides](https://webpack.kr/guides/)를 통해 학습할 것
 
 ### 무료로 사용할 수 있는 이미지, 폰트 등 사이트
 
