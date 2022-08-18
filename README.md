@@ -35,6 +35,7 @@
 
 - [CSS Flex Game](https://flexboxfroggy.com/#ko) : CSS Flex 입문할 때 추천하는 사이트
 - [CSS Grid Game](https://cssgridgarden.com/#ko) : CSS Grid 입문할 때 추천하는 사이트
+- [CSS Selector Game](https://flukeout.github.io/) : CSS Selector 연습할 때 추천하는 사이트
 
 ### GIT
 
