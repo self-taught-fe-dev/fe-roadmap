@@ -63,6 +63,12 @@
 
 - [patterns.dev](https://www.patterns.dev/) : 디자인 패턴을 정리한 사이트이며 Gof의 디자인 패턴말고도 프론트엔드 전반에 사용되는 디자인패턴(Hooks, HoC, Tree Shaking 등)들도 잘 설명함.
 
+- [patterns.dev.kr](https://patterns-dev-kr.github.io/) : 상기된 [patterns.dev](https://www.patterns.dev/)의 한국어 번역 페이지이다.
+
+## 추천 아티클
+
+### TYPESCRIPT
+- [집합의 관점에서 타입스크립트 바라보기](http://blog.hwahae.co.kr/all/tech/tech-tech/9954/) : 화해 기술블로그에서 발행한 집합 관점에서의 타입스크립트 아티클. 다른 타입 언어들의 nomial type system 과 타입스크립트의 structual type system과 비교하며 글을 전개한다. 
 ## 교육 기관
 
 - [네이버 부스트캠프](https://boostcamp.connect.or.kr/)
