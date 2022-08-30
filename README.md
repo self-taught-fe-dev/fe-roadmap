@@ -39,8 +39,10 @@
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
   - [this와 객체 프로토타입, 비동기와 성능](http://www.yes24.com/Product/Goods/44132601)
   - [웹에서 볼수있는 You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+  > JS의 특성에 대해 제대로 알아보고 싶을 때 읽어보면 좋다
 - [이펙티브 타입스크립트](http://www.yes24.com/Product/Goods/102124327)
-- [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/goods/15894097) - 어려운 내용이 아니며 간단하게 읽어보기 좋은 책.
+- [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/goods/15894097)
+> 어려운 내용이 아닌, 가볍게 그림으로 표현한 HTTP & Network 서적
 
 #### 고급
 :three: ~ :five:
