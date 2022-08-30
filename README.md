@@ -68,7 +68,9 @@
 ## 추천 아티클
 
 ### TYPESCRIPT
-- [집합의 관점에서 타입스크립트 바라보기](http://blog.hwahae.co.kr/all/tech/tech-tech/9954/) : 화해 기술블로그에서 발행한 집합 관점에서의 타입스크립트 아티클. 다른 타입 언어들의 nomial type system 과 타입스크립트의 structual type system과 비교하며 글을 전개한다. 
+- [집합의 관점에서 타입스크립트 바라보기](http://blog.hwahae.co.kr/all/tech/tech-tech/9954/) : 화해 기술블로그에서 발행한 집합 관점에서의 타입스크립트 아티클. 타입스크립트의 structual type system에 대해서 알아볼 수 있다. 많이들 헷갈려하는 intersection type과 union type에 대한 개념 또한 짚어준다.
+
+- [타입스크립트의 공변성과 반공변성](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EA%B3%B5%EB%B3%80%EC%84%B1%EA%B3%BC-%EB%B0%98%EA%B3%B5%EB%B3%80%EC%84%B1-82139f7e5cc3) : [원문](https://dmitripavlutin.com/typescript-covariance-contravariance)의 번역 글이다. 서브 타이핑의 개념, 변성의 개념을 이해하기 좋게 간단히 알려준다. 번역도 매끄러운 편이다. 
 ## 교육 기관
 
 - [네이버 부스트캠프](https://boostcamp.connect.or.kr/)
