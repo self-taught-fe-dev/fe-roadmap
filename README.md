@@ -4,12 +4,16 @@
 해당 로드맵은 여러 책&아티클과 강의를 포함합니다. 난이도에 따라 1~5단계로 나뉘어지고 단계의 의미는 다음과 같습니다.
 
 :one: : 입문(Beginner)
+
 :two: : 초급 (Easy)
+
 :three: : 중급(Normal)
+
 :four: : 상급(Hard)
+
 :five: : 최상급(Very hard)
 
-한번도 프로그래밍을 접하지 못하신 분들은, :one:단계부터 시작하시면 됩니다.
+한번도 프로그래밍을 접하지 못했던 분들은, :one:단계부터 시작하시면 됩니다.
 
 ## 튜토리얼
 
@@ -29,6 +33,7 @@
 
 #### 중급
 :three: ~ :four:
+
 - [모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567)
 - You don't know javascript 시리즈
   - [타입과 문법, 스코프와 클로저](http://www.yes24.com/Product/Goods/43219481)
@@ -38,11 +43,11 @@
 - [그림으로 배우는 HTTP & Network](http://www.yes24.com/Product/goods/15894097) - 어려운 내용이 아니며 간단하게 읽어보기 좋은 책.
 
 #### 고급
-:three: ~
+:three: ~ :five:
 
 ---
 ### ETC
-:three: ~ 
+:three: ~ :five:
 주로 프로그래밍 철학 그리고 코드, 설계에 관한 철학을 나타낸 책이 선정되어 있습니다.
 꼭 어려운 내용이 아니더라도, 더 좋은 코드와 좋은 아키텍쳐에 대한 영감을 받을 수 있는 서적들 입니다.
 
@@ -60,9 +65,9 @@ CTO의 가이드라고 불릴 정도로 소프트웨어 시스템을 개발하�
   - [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
   - [The Clean Coder](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778818&orderClick=LA1&Kc=)
   - [GoF Design Patterns](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LEa&Kc=)
-  > (:five:) 디자인 패턴의 창시자들인 GoF(Gang of Four)가 지은 책
+  > 디자인 패턴의 창시자들인 GoF(Gang of Four)가 지은 책 ( :five: ) 
   - [Domain-Driven Design](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LAG&Kc=#N)
-  > 번역본도 있지만, 영어 실력이 좀 된다면 [영문판](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=W81WV8KD13D0&dchild=1&keywords=domain+driven+design&qid=1626800408&sprefix=domain+driv%2Caps%2C266&sr=8-1)도 괜찮다.
+  > 위 책은 번역본도 있지만, 영어 실력이 좀 된다면 [영문판](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=W81WV8KD13D0&dchild=1&keywords=domain+driven+design&qid=1626800408&sprefix=domain+driv%2Caps%2C266&sr=8-1)도 괜찮다.
 
 ---
 ### 함수형 프로그래밍
