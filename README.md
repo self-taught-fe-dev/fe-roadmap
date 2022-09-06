@@ -101,10 +101,12 @@ JS, CSS, HTML, 서버 및 Database 등 웹의 전반적인 구성과 개념을 �
 - [CSS Flex Game](https://flexboxfroggy.com/#ko) : CSS Flex 입문할 때 추천하는 사이트
 - [CSS Grid Game](https://cssgridgarden.com/#ko) : CSS Grid 입문할 때 추천하는 사이트
 - [CSS Selector Game](https://flukeout.github.io/) : CSS Selector 연습할 때 추천하는 사이트
+- [Grid Calculator](http://gridcalculator.dk/) : CSS Grid width, gutter, columns, margin 계산기  
 
 ### GIT
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
+- [Using Git](https://backlog.com/git-tutorial/kr/) : 깃의 기본 사용법을 정리해둔 사이트
 
 ### 번들러
 
