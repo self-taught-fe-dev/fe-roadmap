@@ -40,6 +40,7 @@
 ### GIT
 
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko) : 깃의 기본 사용법을 실습하는 사이트
+- [Using Git](https://backlog.com/git-tutorial/kr/) : 깃의 기본 사용법을 정리해둔 사이트
 
 ### 무료로 사용할 수 있는 이미지, 폰트 등 사이트
 
