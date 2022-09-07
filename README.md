@@ -96,6 +96,10 @@ JS, CSS, HTML, 서버 및 Database 등 웹의 전반적인 구성과 개념을 �
 - [HTML DOM](https://htmldom.dev/) : Vanilla JS 로 HTML DOM 다루기
 - [Event Loop](https://bit.ly/3Qv10Km) : Event Loop를 시각적으로 확인해 볼 수 있는 사이트
 
+### TYPESCRIPT
+
+- [타입스크립트로 작성한 디자인패턴들](https://github.com/elrion018/design-patterns) : (:three: ~) 타입스크립트로 간단히 작성한 디자인패턴 코드를 볼 수 있다. 
+
 ### CSS
 
 - [CSS Flex Game](https://flexboxfroggy.com/#ko) : CSS Flex 입문할 때 추천하는 사이트
