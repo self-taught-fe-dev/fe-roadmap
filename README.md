@@ -133,6 +133,10 @@ JS, CSS, HTML, 서버 및 Database 등 웹의 전반적인 구성과 개념을 �
 
 ## 추천 아티클
 
+### CS(Computer Science)
+
+[레스토랑에 비유해서 알아보는 운영체제](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html) : (:two: ~ :three:) CPU, 프로세스, 스레드, 멀티태스킹, 시분할, 컨텍스트 스위칭 등 듣고 얼른 이해가 되지 않은 딱딱한 개념을 일상에 흔히 접할 수 있는 레스토랑의 운영방식과 비유해 쉽게 설명하고 있는 아티클이다. 
+
 ### TYPESCRIPT
 - [집합의 관점에서 타입스크립트 바라보기](http://blog.hwahae.co.kr/all/tech/tech-tech/9954/) : (:three: ~) 화해 기술블로그에서 발행한 집합 관점에서의 타입스크립트 아티클. 타입스크립트의 structual type system에 대해서 알아볼 수 있다. 많이들 헷갈려하는 intersection type과 union type에 대한 개념 또한 짚어준다.
 
@@ -145,12 +149,15 @@ Call stack, Event Loop에 대한 자세한 설명과 레퍼런스인 JSconf EU�
 - [Execution Context](https://poiemaweb.com/js-execution-context) : (:three: ~ )실행 컨텍스트에 대한 자세한 설명이 나와있는 아티클.
 
 ### WEB
+
 - [웹 폰트의 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) : (:three: ~)  네이버 기술블로그에서 볼 수 있는 글이며, 웹폰트의 사용과 최근 동향 그리고 최적화 방법을 알 수 있다.
 웹 개발시 폰트 적용하기 전에 한번 읽어보면 좋은 글.
 
 - [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) : (:three: ~ :four:)
 브라우저가 어떻게 동작하는지를 알 수 있는 글이며, 이스라엘 개발자 탈리 가르시엘(Tali Garsiel)이 html5rocks.com에 게시한 "How Browsers Work: Behind the scenes of modern web browsers"를 번역한 글.
 >  탈리 가르시엘은 몇 년간 브라우저 내부와 관련된 공개 자료를 확인하고, C++ 코드 수백만 줄 분량의 WebKit이나 Gecko 같은 오픈소스 렌더링 엔진의 소스 코드를 직접 분석하면서 어떻게 브라우저가 동작하는지 파악했습니다.
+
+-[CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/) : (:two: ~ :three:) 대부분의 개발자들이 입문시 겪는다는 CORS(Cross-Origin Resource Sharing)을 다룬 아티클이다. CORS의 기본적인 내용(Origin이 무엇인지 등)과 CORS의 동작방식 (기본적인 Preflight Request와 Simple Request 개념 등), 그리고 실질적으로 CORS를 해결하는 방법(프록시 서버, 관련 헤더 세팅)을 풍부한 설명으로 이해하기 쉽게 다루고 있다.
 
 
 ### YOUTUBE CHANNEL
