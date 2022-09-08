@@ -157,7 +157,7 @@ Call stack, Event Loop에 대한 자세한 설명과 레퍼런스인 JSconf EU�
 브라우저가 어떻게 동작하는지를 알 수 있는 글이며, 이스라엘 개발자 탈리 가르시엘(Tali Garsiel)이 html5rocks.com에 게시한 "How Browsers Work: Behind the scenes of modern web browsers"를 번역한 글.
 >  탈리 가르시엘은 몇 년간 브라우저 내부와 관련된 공개 자료를 확인하고, C++ 코드 수백만 줄 분량의 WebKit이나 Gecko 같은 오픈소스 렌더링 엔진의 소스 코드를 직접 분석하면서 어떻게 브라우저가 동작하는지 파악했습니다.
 
--[CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/) : (:two: ~ :three:) 대부분의 개발자들이 입문시 겪는다는 CORS(Cross-Origin Resource Sharing)을 다룬 아티클이다. CORS의 기본적인 내용(Origin이 무엇인지 등)과 CORS의 동작방식 (기본적인 Preflight Request와 Simple Request 개념 등), 그리고 실질적으로 CORS를 해결하는 방법(프록시 서버, 관련 헤더 세팅)을 풍부한 설명으로 이해하기 쉽게 다루고 있다.
+- [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/) : (:two: ~ :three:) 대부분의 개발자들이 입문시 겪는다는 CORS(Cross-Origin Resource Sharing)을 다룬 아티클이다. CORS의 기본적인 내용(Origin이 무엇인지 등)과 CORS의 동작방식 (기본적인 Preflight Request와 Simple Request 개념 등), 그리고 실질적으로 CORS를 해결하는 방법(프록시 서버, 관련 헤더 세팅)을 풍부한 설명으로 이해하기 쉽게 다루고 있다.
 
 
 ### YOUTUBE CHANNEL
