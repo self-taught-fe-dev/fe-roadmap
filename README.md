@@ -103,6 +103,7 @@ JS, CSS, HTML, 서버 및 Database 등 웹의 전반적인 구성과 개념을 �
 - [CSS Selector Game](https://flukeout.github.io/) : CSS Selector 연습할 때 추천하는 사이트
 - [Grid Calculator](http://gridcalculator.dk/) : CSS Grid width, gutter, columns, margin 계산기  
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) : 브라우저 기본 스타일을 초기화 하는 reset.css 
+- [Loading](https://loading.io/) : 로딩 컴포넌트 구현 사이트(파일 및 CSS 제공) 
 
 ### GIT
 
