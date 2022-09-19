@@ -72,11 +72,16 @@ CTO의 가이드라고 불릴 정도로 소프트웨어 시스템을 개발하�
   - [Domain-Driven Design](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LAG&Kc=#N)
   > 위 책은 번역본도 있지만, 영어 실력이 좀 된다면 [영문판](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=W81WV8KD13D0&dchild=1&keywords=domain+driven+design&qid=1626800408&sprefix=domain+driv%2Caps%2C266&sr=8-1)도 괜찮다.
 
----
 ### 함수형 프로그래밍
 
 - [쏙쏙 들어오는 함수형 코딩](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600759&orderClick=LEa&Kc=)
----
+
+### 객체지향 프로그래밍
+
+- [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021) : (:four: ~ : five:) 어려울 수 있는 객체지향 패러다임의 주요 개념들을 협력, 책임, 역할의 관점에서 풍부한 예시를 통해 쉽게 설명하고 있다. 객체지향 프로그래밍에 대한 무의식적으로 알고 공감하는 지식(묵시지)을 좀 더 의식적이고 구체적인 지식(명시지)로 끌어올리는 데 탁월함을 보이는 책이다.
+
+### TYPESCRIPT
+- [이펙티브 타입스크립트](http://www.yes24.com/Product/Goods/102124327) : 내용 추가 요망
 
 ## 추천 사이트
 
