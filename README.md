@@ -214,6 +214,19 @@ Call stack, Event Loop에 대한 자세한 설명과 레퍼런스인 JSconf EU�
 - [리디](https://ridicorp.com)
 - [네이버](https://d2.naver.com)
 - [여기어때](https://techblog.gccompany.co.kr)
+- [WATCHA](https://medium.com/watcha)
+- [뱅크샐러드](https://blog.banksalad.com/)
+- [NHN](https://meetup.toast.com/)
+- [강남언니](https://blog.gangnamunni.com/blog/tech/)
+- [레진](https://tech.lezhin.com/)
+- [스포카](https://spoqa.github.io/)
+- [쏘카](https://tech.socarcorp.kr/)
+- [NETFLIX](https://netflixtechblog.com/)
+- [Linked in](https://engineering.linkedin.com/blog)
+- [Airbnb](https://medium.com/airbnb-engineering)
+- [RIOT GAMES](https://technology.riotgames.com/)
+
+
 
 ---
 ## 기술 면접 리스트 
