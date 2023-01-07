@@ -71,13 +71,9 @@
 - [생각하는 프로그래밍](http://www.yes24.com/Product/Goods/329227)
 
 - [5 Must-Read Books for Every Software Engineer](https://betterprogramming.pub/5-must-read-books-for-every-software-engineer-57f6fc433e79?gi=c946fca7d38a)
-  - [Clean Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEA&Kc=)
-  - [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
-  - [The Clean Coder](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778818&orderClick=LA1&Kc=)
-  - [GoF Design Patterns](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LEa&Kc=)
-    > 디자인 패턴의 창시자들인 GoF(Gang of Four)가 지은 책 ( :five: )
-  - [Domain-Driven Design](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LAG&Kc=#N)
-    > 위 책은 번역본도 있지만, 영어 실력이 좀 된다면 [영문판](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=W81WV8KD13D0&dchild=1&keywords=domain+driven+design&qid=1626800408&sprefix=domain+driv%2Caps%2C266&sr=8-1)도 괜찮다.
+
+- [Domain-Driven Design](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LAG&Kc=#N)
+  > 위 책은 번역본도 있지만, 영어 실력이 좀 된다면 [영문판](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?crid=W81WV8KD13D0&dchild=1&keywords=domain+driven+design&qid=1626800408&sprefix=domain+driv%2Caps%2C266&sr=8-1)도 괜찮다.
 
 ### 함수형 프로그래밍
 
@@ -85,7 +81,17 @@
 
 ### 객체지향 프로그래밍
 
+- [GoF Design Patterns](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LEa&Kc=)
+
+  > 디자인 패턴의 창시자들인 GoF(Gang of Four)가 지은 책 ( :five: )
+
 - [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021) : (:four: ~ : five:) 어려울 수 있는 객체지향 패러다임의 주요 개념들을 협력, 책임, 역할의 관점에서 풍부한 예시를 통해 쉽게 설명하고 있다. 객체지향 프로그래밍에 대한 무의식적으로 알고 공감하는 지식(묵시지)을 좀 더 의식적이고 구체적인 지식(명시지)로 끌어올리는 데 탁월함을 보이는 책이다.
+
+### 클린코드
+
+- [Clean Code](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEA&Kc=)
+- [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
+- [The Clean Coder](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960778818&orderClick=LA1&Kc=)
 
 ### TYPESCRIPT
 
@@ -151,7 +157,11 @@
 
 ### CS(Computer Science)
 
-[레스토랑에 비유해서 알아보는 운영체제](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html) : (:two: ~ :three:) CPU, 프로세스, 스레드, 멀티태스킹, 시분할, 컨텍스트 스위칭 등 듣고 얼른 이해가 되지 않은 딱딱한 개념을 일상에 흔히 접할 수 있는 레스토랑의 운영방식과 비유해 쉽게 설명하고 있는 아티클이다.
+- [레스토랑에 비유해서 알아보는 운영체제](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html) : (:two: ~ :three:) CPU, 프로세스, 스레드, 멀티태스킹, 시분할, 컨텍스트 스위칭 등 듣고 얼른 이해가 되지 않은 딱딱한 개념을 일상에 흔히 접할 수 있는 레스토랑의 운영방식과 비유해 쉽게 설명하고 있는 아티클이다.
+
+### 함수형 프로그래밍
+
+- [JAVASCRIPT FUNCTION COMPOSITION: WHAT’S THE BIG DEAL? - 자바스크립트 함수 합성, 뭐가 그렇게 대단할까?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/) : (:two ~ :three) 자바스크립트 함수 합성을 별도의 배경지식없이도 쉽게 이해할 수 있도록 작성한 글. 함수형 프로그래밍을 위한 compose, flow, pipe의 개념을 소개하고 코드를 제시한다. 그리고 이해를 돕기위한 예제도 첨부되어있다. 한글 번역도 존재하지만, 오번역이 많으므로 읽기 추천하지는 않는다. ([한글번역](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98-%ED%95%A9%EC%84%B1-%EB%AD%90%EA%B0%80-%EA%B7%B8%EB%A0%87%EA%B2%8C-%EB%8C%80%EB%8B%A8%ED%95%A0%EA%B9%8C-5a2664b7c2b8))
 
 ### TYPESCRIPT
 
@@ -178,6 +188,16 @@
 
 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/) : (:two: ~ :three:) 대부분의 개발자들이 입문시 겪는다는 CORS(Cross-Origin Resource Sharing)을 다룬 아티클이다. CORS의 기본적인 내용(Origin이 무엇인지 등)과 CORS의 동작방식 (기본적인 Preflight Request와 Simple Request 개념 등), 그리고 실질적으로 CORS를 해결하는 방법(프록시 서버, 관련 헤더 세팅)을 풍부한 설명으로 이해하기 쉽게 다루고 있다.
 
+## 추천 레포지토리
+
+- [우아한테크코스 오거니제이션](https://github.com/woowacourse) : (:two: ~ :five:) 우아한테크코스 선발 및 운영을 위한 레포지토리들을 모아둔 오거니제이션이다. 특정 프레임워크, 라이브러리에 의존하는 것이 아닌 언어중립적인 개념, 사용 언어 자체에 대한 기본기를 다질 수 있는 내용들로 구성되어있다. 업계의 주니어, 취준생이라면 꼭 참고해야할 레포지토리라고 생각한다. 오거니의 추천 레포지토리는 다른 분들이 업로드해주시면 감사하겠습니다.
+
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) : (:two: ~ :five:) 각자 사용 언어를 깊게 이해하고 써볼 수 있도록 연습할 수 있는 작은 토이 프로젝트 아이디어 및 튜토리얼이 제시되어있는 레포지토리이다. 또한 토이 프로젝트 영감이 없을 때 참고할 때도 좋다. 취준생, 주니어에겐 특정 프레임워크, 라이브러리 등에 의존적인 공부를 하기보다는 자기가 만들고 싶은 작은 기능, 작은 모듈부터 차근차근 만들어가며 자신의 주력언어, 언어 중립적인 개념을 공부하는 게 좋다고 생각한다. 이를 위해 참고하면 매우 좋은 레포지토리
+
+## 추천 구독 서비스
+
+- [Korean FE article](https://kofearticle.substack.com/?utm_source=substack&utm_medium=email) : (:three: ~ ) 매주 한국어로 번역 혹은 작성된 프론트엔드 글을 메일로 보내주는 아주 고마운 구독 서비스. 선별된 인원으로 구성된 크루들이 양질의 아티클을 선별하여 번역하고 배포하는 듯하다. 구미가 당기고 유익한 내용이 무척 많다. 본인이 영어가 무척 약하거나, 영어를 잘하더라도 처음은 가볍게 읽고 싶다면(아무리 잘해도, 모국어는 아니니까 부담될 수도 있잖아요? 나는 그런데...) 꼭 구독하기를 추천한다.
+
 ## 추천 유튜브 채널
 
 - [얄팍한 코딩사전](https://www.youtube.com/c/%EC%96%84%ED%8C%8D%ED%95%9C%EC%BD%94%EB%94%A9%EC%82%AC%EC%A0%84) : (:one: ~ :three:) 비전공자도 쉽게 이해가 가능하게 설명해주는 다양한 CS 지식과, 프로그래밍 지식, 그리고 자바스크립트 관련 원리 개념. 일단 틈틈히 봐두면 나중에 본격적으로 공부하면서 조금 더 폭넓은 이해가 가능할 것이다. 개인적으로 독학러들한테 강추하는 유튜브 채널.
@@ -191,10 +211,6 @@
 - [코딩앙마](https://www.youtube.com/c/%EC%BD%94%EB%94%A9%EC%95%99%EB%A7%88) : (:one: ~ ) 자바스크립트 + 타입스크립트 강의가 설명을 잘해주신다. 일단 예시를 보면서 이해 하는 것이 더 편하신 분들은 해당 유튜브를 두세번 보자. 각 개념과 예시를 같이 보여주기 때문에 대단히 유용하다. TDD에 대해서 공부하고 싶으면 Jest 강의도 유용하다. React, Next.js 강의도 유용하다.
 
 - [우아한Tech](https://www.youtube.com/c/%EC%9A%B0%EC%95%84%ED%95%9CTech) : (:three: ~ ) 다른 영상들도 유용하지만 우테코에 합격하지 못한 사람 배만 아프다. 하지만 우아한테크코스 해당 재생목록은 배가 아파 묽은 것이 나온다 하더라도 봐야한다. 대단히 유용하다. 하지만 설명해주시는 크루분의 기량에 따라 설명의 수준 차이가 있다고 생각한다. 이해가 잘 안되는 영상이 몇 있기는 한데, 일반화는 위험하니까. 여튼 대단히 유용하고, 이론이나 원리 개념을 정리하는데 도움이 된다.
-
-## 추천 구독 서비스
-
-- [Korean FE article](https://kofearticle.substack.com/?utm_source=substack&utm_medium=email) : (:three: ~ ) 매주 한국어로 번역 혹은 작성된 프론트엔드 글을 메일로 보내주는 아주 고마운 구독 서비스. 선별된 인원으로 구성된 크루들이 양질의 아티클을 선별하여 번역하고 배포하는 듯하다. 구미가 당기고 유익한 내용이 무척 많다. 본인이 영어가 무척 약하거나, 영어를 잘하더라도 처음은 가볍게 읽고 싶다면(아무리 잘해도, 모국어는 아니니까 부담될 수도 있잖아요? 나는 그런데...) 꼭 구독하기를 추천한다.
 
 ## 교육 기관
 
@@ -215,6 +231,7 @@
 
 ## 기업 기술 블로그 모음
 
+- [CJ올리브영](https://oliveyoung.tech/)
 - [구글](https://developer.chrome.com)
 - [카카오엔터프라이즈 프론트](https://fe-developers.kakaoent.com)
 - [네이버 스마트에디터](https://smartstudio.tech)
@@ -249,25 +266,3 @@
 > 중요도를 나열했으니, 중요도 높은 질문은 거의 무조건 물어본다고 생각하라. 원리 개념에 관한 질문은 정해진 답변이 있으니 잘 숙지를 해야한다. 해당 항목이 커지면 분리를 하고 각 개념에 대한 간략한 설명 추가 예정.
 
 > 신입 기술 면접 질문은 기술에 대한 질문도 많이 들어오지만, 개발에 임하는 자세, 혹은 태도도 대단히 중요하게 보는 듯 하다. 정해진 정답에 없는 질문 같은 경우엔 당신이라는 사람을 뽑을 이유를 어필해야한다. 잘 생각해서 대답하자.
-
-### 중요도 (:five:)
-
-- #### 호이스팅
-- #### 클로저
-  - 클로저의 개념
-  - 클로저의 원리
-  - 클로저의 사용 사례
-- #### GET, POST
-- #### this
-- #### 스토리지, 쿠키, 세션 비교
-- #### REST API
-- #### RESTful
-- #### iterable
-- #### iterator protocol
-- #### iterator
-- #### 제너레이터
-- #### let, const, var 공통점, 차이점
-- #### CSR, SSR, SSG
-  - 각 개념
-  - 차이점
-  - 각 장단점
