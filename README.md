@@ -153,6 +153,22 @@
 
 - [patterns.dev.kr](https://patterns-dev-kr.github.io/) : 상기된 [patterns.dev](https://www.patterns.dev/)의 한국어 번역 페이지이다.
 
+### 알고리즘 (Algorithm)
+
+:three: ~
+- ["안경잡이 개발자" 나동빈님의 알고리즘 강의](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1) : 어느정도 프로그래밍에 익숙해져 간다면 대기업 등의 코딩테스트 준비를 위해 알고리즘 강의를 듣고 문제를 많이 풀어보자, 더불어 자매품인 자료구조 강의도 함께 듣는것이 좋다.
+
+- [이것이 취업을 위한 코딩테스트다 with Python](https://product.kyobobook.co.kr/detail/S000001810273) : 위 나동빈님의 강의가 마음에 든다면 읽어볼만한 책이다. 그리디, 최단거리 탐색, DP(Dynamic Programming) 등 이론적인 부분에도 충실하며, 실제 카카오와 삼성 등 기출문제 복원이 잘 되어 있고 기출 유형을 분석하여 필요한 문제들도 수록되어있다. 대체적으로 상세하고 알고리즘 한줄한줄 설명을 잘 해주셔서 위 강의가 좋았다면 사서 함께 읽어볼만한 책이다.
+
+#### 문제풀이 사이트
+- [백준 온라인 저지](https://www.acmicpc.net/) : 국내에서 가장 유명한 알고리즘 문제 사이트 중 하나. 여러 알고리즘을 분류에 따라 풀어볼 수 있어서 매우 좋고 활동이 활발하여 모르는 것이 있으면 바로바로 물어볼 수 있는 환경이 제공된다. 관련 슬랙 채널도 있으니 활용하길 바란다 :)
+
+- [프로그래머스](https://programmers.co.kr/) : 알고리즘 관련하여 문제를 풀어볼 수 있는 국내 유명 사이트로, 문제를 풀고 본인의 순위도 올릴 수 있다. 카카오 블라인드 문제 등등 여러 문제 또한 경험이 가능하다.
+
+- [Leet Code](https://leetcode.com/problemset/all/) : 리츠코드, 유명한 알고리즘 사이트. 위 문제풀이 사이트가 익숙해졌다면 해당 사이트에서 문제를 풀어보는것도 좋다.
+
+
+
 ## 추천 아티클
 
 ### CS(Computer Science)
